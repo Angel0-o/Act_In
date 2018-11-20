@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/javacsv.jar"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/opencsv-3.4.jar"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/sitemesh-2.4.2.jar"/>
+	<classpathentry kind="lib" path="M:/My Documents/workIPAT/Herramientas/WebContent/WEB-INF/lib/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
