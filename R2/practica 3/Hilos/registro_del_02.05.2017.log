@@ -1,0 +1,1128 @@
+ INFO final_hilos.Interrupciones	02.05.2017/17:02:41	Hilo de interrupciones: Thread-2  ID : 18	
+ INFO final_hilos.Interrupciones	02.05.2017/17:02:41	Inicio del Hilo Interrupciones	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:02:41	Nombre del hilo 1: Thread-3 con el ID 19	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:02:41	Nombre del hilo 2: Thread-4 con el ID 20
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:02:41	Iniciando el primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:02:41	Iniciando el segundo hilo
+
+	
+ INFO final_hilos.Interrupciones	02.05.2017/17:02:41		
+ INFO final_hilos.FibonacciPares	02.05.2017/17:02:41	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:02:41	--------------------------------------------	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:41	Interrupción número 1 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:41	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:41	Interrupción número 1 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:41	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:43	Interrupción número 2 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:43	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:44	Interrupción número 2 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:44	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:46	Interrupción número 3 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:46	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:47	Interrupción número 4 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:47	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:47	Interrupción número 3 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:47	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:50	Interrupción número 4 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:50	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:50	Interrupción número 5 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:50	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:52	Interrupción número 6 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:52	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:53	Interrupción número 5 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:53	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:54	Interrupción número 6 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:54	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:55	Interrupción número 7 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:55	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:56	Interrupción número 8 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:56	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:57	Interrupción número 7 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:57	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:59	Interrupción número 8 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:02:59	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:59	Interrupción número 9 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:02:59	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:03:01	Interrupción número 10 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:03:01	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:03:02	Interrupción número 9 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:03:02	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:03:03	Interrupción número 10 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:03:03	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:03:04	**********************	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:03:04	Final del primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:03:04	***********************	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:03:06	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:03:06	Final del segundo hilo	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:03:06	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:03:06	Final del hilo Interrupciones	
+ INFO final_hilos.Interrupciones	02.05.2017/17:03:06	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:07:38	Hilo de interrupciones: Thread-5  ID : 21	
+ INFO final_hilos.Interrupciones	02.05.2017/17:07:38	Inicio del Hilo Interrupciones	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:07:38	Nombre del hilo 1: Thread-6 con el ID 22	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:07:38	Nombre del hilo 2: Thread-7 con el ID 23
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:07:38	Iniciando el primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:07:38	Iniciando el segundo hilo
+
+	
+ INFO final_hilos.Interrupciones	02.05.2017/17:07:38		
+ INFO final_hilos.FibonacciPares	02.05.2017/17:07:38	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:07:38	--------------------------------------------	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:38	Interrupción número 1 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:38	Interrupción número 1 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:38	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:38	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:40	Interrupción número 2 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:40	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:42	Interrupción número 2 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:42	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:43	Interrupción número 3 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:43	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:44	Interrupción número 4 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:44	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:45	Interrupción número 3 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:45	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:47	Interrupción número 4 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:47	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:47	Interrupción número 5 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:47	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:49	Interrupción número 6 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:49	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:50	Interrupción número 5 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:50	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:52	Interrupción número 6 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:52	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:52	Interrupción número 7 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:52	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:53	Interrupción número 8 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:53	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:55	Interrupción número 7 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:55	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:56	Interrupción número 9 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:56	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:56	Interrupción número 8 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:56	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:58	Interrupción número 10 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:58	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:07:59	Interrupción número 9 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:07:59	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:08:01	Interrupción número 10 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:08:01	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:08:01	**********************	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:08:01	Final del primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:08:01	***********************	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:08:04	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:08:04	Final del segundo hilo	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:08:04	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:08:04	Final del hilo Interrupciones	
+ INFO final_hilos.Interrupciones	02.05.2017/17:08:04	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:15:44	Hilo de interrupciones: Thread-2  ID : 18	
+ INFO final_hilos.Interrupciones	02.05.2017/17:15:44	Inicio del Hilo Interrupciones	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:15:44	Nombre del hilo 1: Thread-3 con el ID 19	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:15:44	Nombre del hilo 2: Thread-4 con el ID 20
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:15:44	Iniciando el primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:15:44	Iniciando el segundo hilo
+
+	
+ INFO final_hilos.Interrupciones	02.05.2017/17:15:44		
+ INFO final_hilos.FibonacciPares	02.05.2017/17:15:44	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:15:44	--------------------------------------------	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:44	Interrupción número 1 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:44	Interrupción número 1 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:44	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:44	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:45	Interrupción número 2 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:45	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:47	Interrupción número 3 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:47	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:47	Interrupción número 2 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:47	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:48	Interrupción número 4 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:48	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:50	Interrupción número 5 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:50	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:50	Interrupción número 3 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:50	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:51	Interrupción número 6 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:51	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:52	Interrupción número 4 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:52	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:53	Interrupción número 7 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:53	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:54	Interrupción número 8 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:54	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:55	Interrupción número 5 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:55	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:56	Interrupción número 9 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:56	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:15:57	Interrupción número 10 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:57	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:57	Interrupción número 6 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:15:57	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:15:59	**********************	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:15:59	Final del primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:15:59	***********************	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:16:00	Interrupción número 7 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:16:00	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:16:02	Interrupción número 8 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:16:02	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:16:05	Interrupción número 9 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:16:05	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:16:06	Interrupción número 10 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:16:06	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:16:09	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:16:09	Final del segundo hilo	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:16:09	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:16:09	Final del hilo Interrupciones	
+ INFO final_hilos.Interrupciones	02.05.2017/17:16:09	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:19:00	Hilo de interrupciones: Thread-2  ID : 18	
+ INFO final_hilos.Interrupciones	02.05.2017/17:19:00	Inicio del Hilo Interrupciones	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:19:00	Nombre del hilo 1: Thread-3 con el ID 19	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:19:00	Nombre del hilo 2: Thread-4 con el ID 20
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:19:00	Iniciando el primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:19:00	Iniciando el segundo hilo
+
+	
+ INFO final_hilos.Interrupciones	02.05.2017/17:19:00		
+ INFO final_hilos.FibonacciPares	02.05.2017/17:19:00	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:19:00	--------------------------------------------	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:00	Interrupción número 1 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:00	Interrupción número 1 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:00	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:00	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:01	Interrupción número 2 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:01	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:03	Interrupción número 3 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:03	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:03	Interrupción número 2 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:03	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:04	Interrupción número 4 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:04	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:06	Interrupción número 5 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:06	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:06	Interrupción número 3 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:06	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:07	Interrupción número 6 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:07	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:08	Interrupción número 4 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:08	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:09	Interrupción número 7 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:09	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:10	Interrupción número 8 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:10	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:11	Interrupción número 5 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:11	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:12	Interrupción número 9 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:12	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:13	Interrupción número 10 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:13	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:13	Interrupción número 6 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:13	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:19:15	**********************	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:19:15	Final del primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:19:15	***********************	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:16	Interrupción número 7 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:16	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:18	Interrupción número 8 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:18	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:21	Interrupción número 9 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:21	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:22	Interrupción número 10 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:22	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:19:25	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:19:25	Final del segundo hilo	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:19:25	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:19:25	Final del hilo Interrupciones	
+ INFO final_hilos.Interrupciones	02.05.2017/17:19:25	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:19:59	Hilo de interrupciones: Thread-2  ID : 18	
+ INFO final_hilos.Interrupciones	02.05.2017/17:19:59	Inicio del Hilo Interrupciones	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:19:59	Nombre del hilo 1: Thread-3 con el ID 19	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:19:59	Nombre del hilo 2: Thread-4 con el ID 20
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:19:59	Iniciando el primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:19:59	Iniciando el segundo hilo
+
+	
+ INFO final_hilos.Interrupciones	02.05.2017/17:19:59		
+ INFO final_hilos.FibonacciPares	02.05.2017/17:19:59	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:19:59	--------------------------------------------	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:19:59	Interrupción número 1 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:59	Interrupción número 1 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:59	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:19:59	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:01	Interrupción número 2 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:01	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:02	Interrupción número 2 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:02	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:03	Interrupción número 3 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:03	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:05	Interrupción número 4 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:05	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:05	Interrupción número 3 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:05	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:07	Interrupción número 5 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:07	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:07	Interrupción número 4 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:07	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:09	Interrupción número 6 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:09	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:10	Interrupción número 5 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:10	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:11	Interrupción número 7 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:11	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:12	Interrupción número 6 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:12	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:13	Interrupción número 8 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:13	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:15	Interrupción número 9 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:15	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:15	Interrupción número 7 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:15	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:17	Interrupción número 10 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:17	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:17	Interrupción número 8 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:17	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:20:19	**********************	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:20:19	Final del primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:20:19	***********************	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:20	Interrupción número 9 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:20	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:21	Interrupción número 10 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:21	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:20:24	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:20:24	Final del segundo hilo	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:20:24	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:20:24	Final del hilo Interrupciones	
+ INFO final_hilos.Interrupciones	02.05.2017/17:20:24	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:20:59	Hilo de interrupciones: Thread-2  ID : 18	
+ INFO final_hilos.Interrupciones	02.05.2017/17:20:59	Inicio del Hilo Interrupciones	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:20:59	Nombre del hilo 1: Thread-3 con el ID 19	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:20:59	Nombre del hilo 2: Thread-4 con el ID 20
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:20:59	Iniciando el primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:20:59	Iniciando el segundo hilo
+
+	
+ INFO final_hilos.Interrupciones	02.05.2017/17:20:59		
+ INFO final_hilos.FibonacciPares	02.05.2017/17:20:59	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:20:59	--------------------------------------------	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:59	Interrupción número 1 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:20:59	Interrupción número 1 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:59	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:20:59	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:01	Interrupción número 2 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:01	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:02	Interrupción número 2 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:02	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:03	Interrupción número 3 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:03	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:05	Interrupción número 4 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:05	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:05	Interrupción número 3 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:05	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:07	Interrupción número 5 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:07	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:08	Interrupción número 4 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:08	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:09	Interrupción número 6 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:09	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:11	Interrupción número 5 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:11	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:11	Interrupción número 7 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:11	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:12	Interrupción número 6 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:12	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:13	Interrupción número 8 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:13	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:15	Interrupción número 9 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:15	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:15	Interrupción número 7 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:15	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:17	Interrupción número 10 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:17	Interrupción número 8 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:17	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:17	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:21:19	**********************	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:21:19	Final del primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:21:19	***********************	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:20	Interrupción número 9 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:21:20	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:21	Interrupción número 10 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:21:21	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:21:24	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:21:24	Final del segundo hilo	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:21:24	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:21:24	Final del hilo Interrupciones	
+ INFO final_hilos.Interrupciones	02.05.2017/17:21:24	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:30:32	Hilo de interrupciones: Thread-2  ID : 18	
+ INFO final_hilos.Interrupciones	02.05.2017/17:30:32	Inicio del Hilo Interrupciones	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:30:32	Nombre del hilo 1: Thread-3 con el ID 19	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:30:32	Nombre del hilo 2: Thread-4 con el ID 20
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:30:32	Iniciando el primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:30:32	Iniciando el segundo hilo
+
+	
+ INFO final_hilos.Interrupciones	02.05.2017/17:30:32		
+ INFO final_hilos.FibonacciPares	02.05.2017/17:30:32	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:30:32	--------------------------------------------	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:32	Interrupción número 1 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:32	Interrupción número 1 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:32	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:32	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:34	Interrupción número 2 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:34	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:35	Interrupción número 2 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:35	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:36	Interrupción número 3 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:36	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:38	Interrupción número 4 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:38	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:38	Interrupción número 3 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:38	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:40	Interrupción número 5 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:40	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:40	Interrupción número 4 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:40	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:42	Interrupción número 6 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:42	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:43	Interrupción número 5 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:43	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:44	Interrupción número 7 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:44	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:45	Interrupción número 6 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:45	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:46	Interrupción número 8 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:46	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:48	Interrupción número 9 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:48	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:48	Interrupción número 7 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:48	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:50	Interrupción número 10 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:50	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:50	Interrupción número 8 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:50	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:30:52	**********************	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:30:52	Final del primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:30:52	***********************	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:53	Interrupción número 9 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:30:53	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:54	Interrupción número 10 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:30:54	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:30:57	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:30:57	Final del segundo hilo	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:30:57	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:30:57	Final del hilo Interrupciones	
+ INFO final_hilos.Interrupciones	02.05.2017/17:30:57	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:33:00	Hilo de interrupciones: Thread-2  ID : 18	
+ INFO final_hilos.Interrupciones	02.05.2017/17:33:00	Inicio del Hilo Interrupciones	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:33:00	Nombre del hilo 1: Thread-3 con el ID 19	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:33:00	Nombre del hilo 2: Thread-4 con el ID 20
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:33:00	Iniciando el primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:33:00	Iniciando el segundo hilo
+
+	
+ INFO final_hilos.Interrupciones	02.05.2017/17:33:00		
+ INFO final_hilos.FibonacciPares	02.05.2017/17:33:00	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:33:00	--------------------------------------------	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:00	Interrupción número 1 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:00	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:00	Interrupción número 1 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:00	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:02	Interrupción número 2 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:02	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:03	Interrupción número 2 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:03	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:04	Interrupción número 3 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:04	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:06	Interrupción número 4 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:06	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:06	Interrupción número 3 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:06	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:08	Interrupción número 5 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:08	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:08	Interrupción número 4 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:08	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:10	Interrupción número 6 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:10	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:11	Interrupción número 5 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:11	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:12	Interrupción número 7 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:12	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:13	Interrupción número 6 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:13	
+
+Inicio del Abecedario
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:14	Interrupción número 8 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:14	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:16	Interrupción número 9 del primer hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:16	
+
+Fibonacci
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:16	Interrupción número 7 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:16	
+
+Primos
+
+	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:18	Interrupción número 10 del primer hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:18	Interrupción número 8 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:18	
+
+Inicio de los pares
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:18	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:33:20	**********************	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:33:20	Final del primer hilo	
+ INFO final_hilos.FibonacciPares	02.05.2017/17:33:20	***********************	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:21	Interrupción número 9 del segundo hilo	
+ DEBUG final_hilos.FibonacciPares	02.05.2017/17:33:21	
+
+Primos
+
+	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:22	Interrupción número 10 del segundo hilo	
+ DEBUG final_hilos.PrimosAbecedario	02.05.2017/17:33:22	
+
+Inicio del Abecedario
+
+	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:33:25	--------------------------------------------	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:33:25	Final del segundo hilo	
+ INFO final_hilos.PrimosAbecedario	02.05.2017/17:33:25	--------------------------------------------	
+ INFO final_hilos.Interrupciones	02.05.2017/17:33:25	Final del hilo Interrupciones	
+ INFO final_hilos.Interrupciones	02.05.2017/17:33:25	--------------------------------------------	
