@@ -42,6 +42,7 @@ public class Actualizar extends HttpServlet {
 		// TODO Auto-generated method stub
 		
 		Boolean correcto = true;
+		Boolean exito = true;
 
 		String archivo = request.getParameter("fName");
 		System.out.println("archivo: " + archivo);
@@ -50,7 +51,15 @@ public class Actualizar extends HttpServlet {
 			System.out.println("Archivo no seleccionado");
 
 			PrintWriter outArch = response.getWriter();
-			outArch.println("<script type=\"text/javascript\">"	+ "alert('Archivo no seleccionado');"+ "location='/GDI/ActualizarAsistencia.jsp';</script>");
+			outArch.println("<script type=\"text/javascript\">"	+ "alert('Archivo no seleccionado');"+ "location='/GDI/Actualizar.jsp';</script>");
+			correcto = false;
+		}
+		else if(!archivo.contains(".csv"))
+		{
+			System.out.println("Formato Incorrecto");
+
+			PrintWriter outArch = response.getWriter();
+			outArch.println("<script type=\"text/javascript\">"	+ "alert('Formato Incorrecto');"+ "location='/GDI/Actualizar.jsp';</script>");
 			correcto = false;
 		}
 
@@ -63,11 +72,19 @@ public class Actualizar extends HttpServlet {
 			{
 				UserDAO.errorJSP = "No se pudo leer el archivo CSV";
 				response.sendRedirect("Error.jsp");
-			} else {
-				// Archivo leído
-				Pool.actualizarRegistros(arreglo);
-				//System.out.println("Archivo Corrupto");
-				response.sendRedirect("Success.jsp");
+			} 
+			else 
+			{
+				exito = Pool.actualizarRegistros(arreglo);
+				if (exito)
+				{
+					response.sendRedirect("Success.jsp");
+				}
+				else
+				{
+					UserDAO.errorJSP = "Registros duplicados o informacion incorrecta";
+					response.sendRedirect("Error.jsp");
+				}
 			}
 		}
 

@@ -72,7 +72,8 @@
 										class="dropdown-toggle" data-toggle="dropdown"><b
 											class="caret"></b></a>
 										<ul class="dropdown-menu">
-											<li id="liImportar"><a href="ActualizarAsistencia.jsp">Dar de alta</a></li>
+											<li id="liImportar"><a href="Actualizar.jsp">Dar de alta</a></li>
+											<li id="liImportar"><a href="Eliminar.jsp">Dar de baja</a></li>
 										</ul>
 									</li>
 								</ul>

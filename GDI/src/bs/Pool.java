@@ -129,16 +129,72 @@ public class Pool {
 		{
 			auxiliar = filas.get(x);
 			fila = auxiliar.split(",");
-			System.out.println(filas.get(x));
 			
-			sqlInsert = "insert into bmv_trabajadores_intranet values('" + fila[0].substring(1)
-					+ "','" + fila[1]
-					+ "','" + fila[2]
-					+ "','" + fila[3].substring(1,fila[3].lastIndexOf("]"))
-					+ "')";
-			System.out.println("SQL: "+sqlInsert);
-			executeUID(sqlInsert);
+			if(fila.length != 5)
+			{
+				System.out.println("Longitud: " + fila.length + " no soportada");
+				correcto = false;
+			}
+			
+			else
+			{
+				if(existeValor("bmv_trabajadores_intranet", "trabajador", fila[0].substring(1)))
+				{
+					System.out.println("Registro : " + fila[0].substring(1) + " duplicado");
+					correcto = false;
+				}
+				else
+				{
+					sqlInsert = "insert into bmv_trabajadores_intranet values('" + fila[0].substring(1)
+							+ "','" + fila[1]
+							+ "','" + fila[2]
+							+ "','" + fila[3]
+							+ "','" + fila[4].substring(1,fila[4].lastIndexOf("]"))
+							+ "')";
+					System.out.println("SQL: "+sqlInsert);
+					executeUID(sqlInsert);
+					correcto = true;
+				}
+			}
 		}
+		return correcto;
+	}
+	
+	public static Boolean eliminarRegistros(ArrayList<String> filas) {
+
+		Boolean correcto = false;
+		String[] fila = null;
+		String auxiliar = "";
+		String sqlUpdate = "";
+		
+		for(int x=0;x<filas.size();x++) 
+		{
+			auxiliar = filas.get(x);
+			fila = auxiliar.split(",");
+			
+			if(fila.length != 5)
+			{
+				System.out.println("Longitud: " + fila.length + " no soportada");
+				correcto = false;
+			}
+			
+			else
+			{
+				if(existeValor("bmv_trabajadores_intranet", "trabajador", fila[0].substring(1)))
+				{
+					sqlUpdate = "update bmv_trabajadores_intranet set sit_trabajador = 2 where trabajador = '" + fila[0].substring(1) + "'";
+					System.out.println("SQL: "+sqlUpdate);
+					executeUID(sqlUpdate);
+					correcto = true;
+				}
+				else
+				{
+					System.out.println("Registro : " + fila[0].substring(1) + " no encontrado");
+					correcto = false;
+				}
+			}
+		}
+		
 		return correcto;
 	}
 

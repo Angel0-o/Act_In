@@ -7,7 +7,6 @@
     
     <excludes>
         <pattern>/index.jsp</pattern>
-        <pattern>/Error.jsp</pattern>
     </excludes>
     
 </decorators>
